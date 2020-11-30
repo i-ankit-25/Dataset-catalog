@@ -1,0 +1,49 @@
+{
+  "name": "Sample Notebook Title",
+  "description": "Description of sample notebook",
+  "logo": "_images/images (2).png",
+  "has_supporting_content": false,
+  "de_catalog_id": "Sample_Notebook Title_notebook_1606722060986",
+  "source_repo": "",
+  "cover": "cover.md",
+  "use_explorer_dataset": true,
+  "explorer_catalog_id": "mur-sst-dataset",
+  "is_s3_type": true,
+  "buckets": [
+    "mur-sst:/zarr",
+    "mur-sst:/zarr-v1"
+  ],
+  "meta": {
+    "Install Time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Notebook"
+    ],
+    "Dataset": [
+      "Multi-Scale Ultra High Resolution (MUR) Sea Surface Temperature (SST) Dataset"
+    ],
+    "Catalog Id": [
+      "Sample_Notebook Title_notebook_1606722060986"
+    ],
+    "buckets": [
+      "mur-sst:/zarr",
+      "mur-sst:/zarr-v1"
+    ],
+    "license_and_use_rights": [
+      "Edge License"
+    ],
+    "last_updated": [
+      "Nov 30 2020"
+    ],
+    "contact": [
+      "xyz@ok.com"
+    ],
+    "preferred_platform": [
+      "Kubernetes"
+    ],
+    "managed_by": [
+      "Edge Team"
+    ]
+  }
+}

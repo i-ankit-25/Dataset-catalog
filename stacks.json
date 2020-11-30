@@ -1,0 +1,20 @@
+{
+  "title": "Sample Notebook Title",
+  "description": "Description of sample notebook",
+  "logo": "_images/images (2).png",
+  "enabled": true,
+  "category_label": [
+    "Notebook"
+  ],
+  "tag": [
+    ""
+  ],
+  "de_catalog_id": "Sample_Notebook Title_notebook_1606722060986",
+  "categories": [
+    "Dev Ops",
+    "Express"
+  ],
+  "git_url": "",
+  "git_commit": "",
+  "installTime": "2 minutes"
+}
